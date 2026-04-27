@@ -2,7 +2,6 @@
  # Mineria de Dades - Anàlisi de Salut Mental en Estudiants
 
 Cristina Espasa Cárdenas  
-Mineria de Dades (05.584)  
 
 ---
 
