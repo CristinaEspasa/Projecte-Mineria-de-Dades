@@ -21,9 +21,9 @@ El projecte segueix el cicle de vida complet de la mineria de dades:
 
 ## Dataset utilitzat
 
-**Student Depression Dataset** (Kaggle)
+**Student Depression Dataset**
 
-- **Font:** [Kaggle - Student Depression Dataset](https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset)
+- **Font:** [Kaggle - Student Depression Dataset]
 - **Observacions:** ~28.000 estudiants
 - **Variables:** Rendiment acadèmic (CGPA), pressió acadèmica, estrès financer, hores d'estudi, gènere, edat, depressió (variable objectiu), etc.
 
