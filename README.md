@@ -1,5 +1,5 @@
-# PRA1 - Mineria de Dades
-**Autora:** Cristina Espasa Cárdenas
+# PROJECTE MINERIA DE DADES
+cCristina Espasa Cárdenas
 
 ## Descripció
 Anàlisi exploratòria de salut mental en estudiants amb tècniques de mineria de dades.
